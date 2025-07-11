@@ -65,8 +65,8 @@ ollama pull nomic-embed-text
 
 ### 3. Access the database using pgAdmin
 
-* Email: `admin@admin.com`
-* Password: `admin`
+* Email: `admin@example.com`
+* Password: `adminpassword`
 * Host: `postgres`
 * Username: `postgres`, Password: `password`
 
